@@ -40,15 +40,34 @@ RegisterNumber:
 */
 
 ## Output:
+## HALF SUBTRACTOR
+![hal sub pro](https://github.com/vishnukayyala/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151489368/971d53c7-4278-427c-af55-a9b7c7cd4b83)
+
+## FULL SUBTRACTOR
+![ful sub pro](https://github.com/vishnukayyala/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151489368/1409f145-4e3e-4dbb-bd5c-f8f875581baf)
 
 ## Truthtable
 
+## HALF SUBTRACTOR
+![TT SUB HAL](https://github.com/vishnukayyala/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151489368/8610e613-b91d-419a-a30f-f5760e7bf5fd)
 
+## FULL SUBTRACTOR
+![TT SUB FULL](https://github.com/vishnukayyala/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151489368/ca4e08fa-5789-4065-a2cd-135c86832e9b)
 
 ##  RTL realization
 
+## HALF SUBTRACTOR
+![RTL SUB HAL](https://github.com/vishnukayyala/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151489368/a70e93cf-7466-4775-bbed-3d81d08e9086)
+
+## FULL SUBTRACTOR
+![RTL FULL SUB](https://github.com/vishnukayyala/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151489368/551f5d59-aa89-4fc4-a4af-e4ed06b8b4f8)
 
 ## Timing diagram 
+## HALF SUBTRACTOR
+![TIME SUB HAL](https://github.com/vishnukayyala/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151489368/459270be-08cf-4027-b4bf-4910a4ad1566)
+
+## FULL SUBTRACTOR
+![TIME SUB FULL](https://github.com/vishnukayyala/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151489368/3257b815-5a4a-4040-a38c-6e1a6f40a4e5)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
